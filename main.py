@@ -9,7 +9,7 @@ different weight status categories.
 
 col1, col2 = st.columns(2, gap="large", vertical_alignment="center")
 with col1:
-    st.image("BMI2.jpg", width=400)
+    st.image("BMI2.jpg", width=300)
     st.write(bmi_definition)
 
 
