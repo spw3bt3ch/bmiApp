@@ -1,6 +1,5 @@
 import streamlit as st
 from functions import *
-st.title("BMI Calculator")
 
 bmi_definition = f"""A BMI (Body Mass Index) calculator is a tool used 
 to assess an individual's body weight in relation to their height. 
